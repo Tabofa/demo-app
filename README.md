@@ -2,6 +2,7 @@
 App for demo purposes. Use on own risk. Author takes no responsability.
 
 ## Requirements
+* Windows 10 > Pro or Unix based OS  
 * Docker
 
 ## Install
